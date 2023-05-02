@@ -14,6 +14,13 @@ app.get('/foodRecipe', (req, res) => {
     res.send(foodRecipe);
 })
 
+app.get('/foodRecipe/:id', (req, res) => {
+    const id = req.params.id;
+    // console.log(id);
+  const selectedChef = foodRecipe.find(chef => chef._id === id);
+  res.send(selectedChef);
+})
+
 app.listen(port, ()=> {
     console.log(`Turkish food Cuisine on port:${port}`)
 })
