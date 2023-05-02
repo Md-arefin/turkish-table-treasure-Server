@@ -1,0 +1,388 @@
+[
+    {
+        "_id": "ABC12345",
+        "chefPicture": "https://i.ibb.co/16y9FP5/brak.jpg",
+        "chefName": "CNZ Burak",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 128,
+        "likes": 2350000,
+        "chefBio": "CNZ Burak is a Turkish chef known for his innovative take on traditional Turkish cuisine. He has gained a large following on social media, where he shares his recipes and cooking tips.",
+        "recipes": [
+            {
+                "name": "Lahmacun",
+                "ingredients": [
+                    "flour",
+                    "yeast",
+                    "ground beef",
+                    "tomato paste",
+                    "onion",
+                    "red pepper flakes"
+                ],
+                "steps": "Mix flour, yeast, and water to make dough Spread tomato paste on dough Add ground beef, onion, and red pepper flakes Bake in oven. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/4Tnsmk7/Turkish-Pizza-Lahmacun.jpg"
+            },
+            {
+                "name": "Baklava",
+                "ingredients": [
+                    "phyllo dough",
+                    "pistachios",
+                    "sugar",
+                    "butter",
+                    "honey",
+                    "lemon juice"
+                ],
+                "steps": "Marinate lamb in olive oil and salt Thread lamb, onion, tomato, and green pepper on skewers Grill on high heat Serve with rice or bread. Mix flour, yeast, and water to make dough Spread tomato paste on dough Add ground beef, onion, and red pepper flakes Bake in oven. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/dsTKyN4/baklava-recipe-3.jpg"
+            },
+            {
+                "name": "Kebab",
+                "ingredients": [
+                    "lamb",
+                    "onion",
+                    "tomato",
+                    "green pepper",
+                    "olive oil",
+                    "salt"
+                ],
+                "steps": "Marinate lamb in olive oil and salt Thread lamb, onion, tomato, and green pepper on skewers Grill on high heat Serve with rice or bread. Mix flour, yeast, and water to make dough Spread tomato paste on dough Add ground beef, onion, and red pepper flakes Bake in oven. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/zxg77C2/turkish-adana-kebab-720x720.jpg"
+            },
+            {
+                "name": "Turkish Delight",
+                "ingredients": [
+                    "cornstarch",
+                    "sugar",
+                    "water",
+                    "rose water",
+                    "citric acid",
+                    "food coloring"
+                ],
+                "steps": "Marinate lamb in olive oil and salt Thread lamb, onion, tomato, and green pepper on skewers Grill on high heat Serve with rice or bread. Mix flour, yeast, and water to make dough Spread tomato paste on dough Add ground beef, onion, and red pepper flakes Bake in oven. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/cDQhpT7/maxresdefault.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "sb123456",
+        "chefPicture": "https://i.ibb.co/P6fGSDr/Salt-Bae.jpg",
+        "chefName": "Salt Bae",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 72,
+        "likes": 1290000,
+        "chefBio": "Salt Bae, whose real name is Nusret Gökçe, is a Turkish chef known for his flamboyant style and viral videos. He owns a chain of steakhouses called Nusr-Et.",
+        "recipes": [
+            {
+                "name": "Steak",
+                "ingredients": [
+                    "ribeye steak",
+                    "salt",
+                    "butter"
+                ],
+                "steps": "Season steak with saltCook in butter on high heat Let rest before serving. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/Lrw3MMj/download.jpg"
+            },
+            {
+                "name": "Manti",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "flour",
+                    "water",
+                    "salt",
+                    "yogurt",
+                    "mint"
+                ],
+                "steps": "Mix ground beef and onion for filling Make dough with flour and water Cut into small squares Fill with meat mixture and pinch edges closed Boil until cooked Serve with yogurt and mint. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/k3pR4pr/Manti-84d39c9632cf40fcb0ca7625d63556b5.jpg"
+            },
+            {
+                "name": "Kadayif",
+                "ingredients": [
+                    "kadayif dough",
+                    "butter",
+                    "walnuts",
+                    "sugar",
+                    "water",
+                    "lemon juice"
+                ],
+                "steps": "Melt butter and mix with kadayif doughLayer in a pan with chopped walnutsBake until golden brownBoil sugar, water, and lemon juice to make syrup Pour syrup over kadayif. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/pjHgSbR/Kadaif-Kadayif-Kunafa-Featured.jpg"
+            },
+            {
+                "name": "Baklava",
+                "ingredients": [
+                    "phyllo dough",
+                    "pistachios",
+                    "sugar",
+                    "butter",
+                    "honey",
+                    "lemon juice"
+                ],
+                "steps": "Layer phyllo dough with pistachios and butter Bake in oven Heat honey, sugar, and lemon juice to make syrup Pour syrup over baklava. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/2Y9CqJ8/Baklava-4-square.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "ft123456",
+        "chefPicture": "https://i.ibb.co/CMjhy6X/Screenshot-72.png",
+        "chefName": "Fatih Tutak",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 150,
+        "likes": 210000,
+        "chefBio": "Fatih Tutak is a renowned Turkish chef who has worked in some of the world's best restaurants, including Noma in Denmark and The House on Sathorn in Thailand. He is known for his creative use of local ingredients and his modern take on Turkish cuisine.",
+        "recipes": [
+            {
+                "name": "Lamb Kebab",
+                "ingredients": [
+                    "lamb shoulder",
+                    "red pepper paste",
+                    "tomato paste",
+                    "onion",
+                    "garlic",
+                    "cumin",
+                    "sumac",
+                    "salt",
+                    "pepper"
+                ],
+                "steps": "1. Cut the lamb shoulder into small pieces and marinate with red pepper paste, tomato paste, finely chopped onion, minced garlic, cumin, sumac, salt, and pepper. 2. Let the meat marinate for at least an hour in the fridge. 3. Thread the meat onto skewers and grill over high heat until nicely charred and cooked to your liking.",
+                "image": "https://i.ibb.co/HPGJ24Q/best-lamb-kebab-recipe.jpg"
+            },
+            {
+                "name": "Manti",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "parsley",
+                    "salt",
+                    "pepper",
+                    "yogurt",
+                    "sumac"
+                ],
+                "steps": "1. Mix the ground beef with finely chopped onion, minced garlic, chopped parsley, salt, and pepper. 2. Roll out the dough into thin sheets and cut into small squares. 3. Place a small amount of the beef mixture in the center of each square and fold the edges to form a small dumpling. 4. Boil the manti in salted water until cooked through. 5. Serve with yogurt and sumac.",
+                "image": "https://i.ibb.co/0DW9gDq/fb6d7f-47e6a9c8151b450b8f5965c26d560ccb-mv2.webp"
+            },
+            {
+                "name": "Sea Bass",
+                "ingredients": [
+                    "sea bass",
+                    "lemon",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "dill"
+                ],
+                "steps": "1. Clean and fillet the sea bass. 2. Season the fish with salt and pepper, and drizzle with olive oil. 3. Grill the fish over medium-high heat until cooked through, about 4-5 minutes per side. 4. Squeeze fresh lemon juice over the fish and sprinkle with chopped dill.",
+                "image": "https://i.ibb.co/X2ktQnh/Sea-bass.jpg"
+            },
+            {
+                "name": "Baklava",
+                "ingredients": [
+                    "phyllo dough",
+                    "butter",
+                    "walnuts",
+                    "sugar",
+                    "water",
+                    "honey",
+                    "lemon juice"
+                ],
+                "steps": "1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/314Xt59/Baklava-Recipe-16.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "ABCfeoij5686527",
+        "chefPicture": "https://i.ibb.co/PzTh69H/images.jpg",
+        "chefName": "Mehmet Gürs",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 128,
+        "likes": 2350000,
+        "chefBio": "Mehmet Gürs is a Turkish chef known for his innovative take on traditional Turkish cuisine. He has gained a large following on social media, where he shares his recipes and cooking tips.",
+        "recipes": [
+            {
+                "name": "Lahmacun",
+                "ingredients": [
+                    "flour",
+                    "yeast",
+                    "ground beef",
+                    "tomato paste",
+                    "onion",
+                    "red pepper flakes"
+                ],
+                "steps": "Mix flour, yeast, and water to make dough Spread tomato paste on dough Add ground beef, onion, and red pepper flakes Bake in oven. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/4Tnsmk7/Turkish-Pizza-Lahmacun.jpg"
+            },
+            {
+                "name": "Baklava",
+                "ingredients": [
+                    "phyllo dough",
+                    "pistachios",
+                    "sugar",
+                    "butter",
+                    "honey",
+                    "lemon juice"
+                ],
+                "steps": "Marinate lamb in olive oil and salt Thread lamb, onion, tomato, and green pepper on skewers Grill on high heat Serve with rice or bread. Mix flour, yeast, and water to make dough Spread tomato paste on dough Add ground beef, onion, and red pepper flakes Bake in oven. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/dsTKyN4/baklava-recipe-3.jpg"
+            },
+            {
+                "name": "Kebab",
+                "ingredients": [
+                    "lamb",
+                    "onion",
+                    "tomato",
+                    "green pepper",
+                    "olive oil",
+                    "salt"
+                ],
+                "steps": "Marinate lamb in olive oil and salt Thread lamb, onion, tomato, and green pepper on skewers Grill on high heat Serve with rice or bread. Mix flour, yeast, and water to make dough Spread tomato paste on dough Add ground beef, onion, and red pepper flakes Bake in oven. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/dsTKyN4/baklava-recipe-3.jpg"
+            },
+            {
+                "name": "Turkish Delight",
+                "ingredients": [
+                    "cornstarch",
+                    "sugar",
+                    "water",
+                    "rose water",
+                    "citric acid",
+                    "food coloring"
+                ],
+                "steps": "Mix cornstarch, sugar, and water in a pot Cook until thick Add rose water, citric acid, and food coloring Pour into a pan and let cool. into cubes and dust with powdered sugar. Marinate lamb in olive oil and salt Thread lamb, onion, tomato, and green pepper on skewers Grill on high heat Serve with rice or bread. Mix flour, yeast, and water to make dough Spread tomato paste on dough Add ground beef, onion, and red pepper flakes Bake in oven. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/cDQhpT7/maxresdefault.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "sboo662nvr698526554",
+        "chefPicture": "https://i.ibb.co/kH3c5yb/h-Yihj5p3-400x400.jpg",
+        "chefName": "Selin Kiazim",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 72,
+        "likes": 1290000,
+        "chefBio": "Selin Kiazim, whose real name is Nusret Gökçe, is a Turkish chef known for his flamboyant style and viral videos. He owns a chain of steakhouses called Nusr-Et.",
+        "recipes": [
+            {
+                "name": "Steak",
+                "ingredients": [
+                    "ribeye steak",
+                    "salt",
+                    "butter"
+                ],
+                "steps": "Season steak with saltCook in butter on high heat Let rest before serving. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/Lrw3MMj/download.jpg"
+            },
+            {
+                "name": "Manti",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "flour",
+                    "water",
+                    "salt",
+                    "yogurt",
+                    "mint"
+                ],
+                "steps": "Mix ground beef and onion for filling Make dough with flour and water Cut into small squares Fill with meat mixture and pinch edges closed Boil until cooked Serve with yogurt and mint. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/k3pR4pr/Manti-84d39c9632cf40fcb0ca7625d63556b5.jpg"
+            },
+            {
+                "name": "Kadayif",
+                "ingredients": [
+                    "kadayif dough",
+                    "butter",
+                    "walnuts",
+                    "sugar",
+                    "water",
+                    "lemon juice"
+                ],
+                "steps": "Melt butter and mix with kadayif doughLayer in a pan with chopped walnutsBake until golden brownBoil sugar, water, and lemon juice to make syrup Pour syrup over kadayif. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/pjHgSbR/Kadaif-Kadayif-Kunafa-Featured.jpg"
+            },
+            {
+                "name": "Baklava",
+                "ingredients": [
+                    "phyllo dough",
+                    "pistachios",
+                    "sugar",
+                    "butter",
+                    "honey",
+                    "lemon juice"
+                ],
+                "steps": "Layer phyllo dough with pistachios and butter Bake in oven Heat honey, sugar, and lemon juice to make syrup Pour syrup over baklava. 1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/2Y9CqJ8/Baklava-4-square.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "ftjfurj8746hfjj_8844",
+        "chefPicture": "https://i.ibb.co/W0CYLTS/2754490-810x458.jpg",
+        "chefName": "Somer Sivrioğlu",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 150,
+        "likes": 210000,
+        "chefBio": "Somer Sivrioğlu is a renowned Turkish chef who has worked in some of the world's best restaurants, including Noma in Denmark and The House on Sathorn in Thailand. He is known for his creative use of local ingredients and his modern take on Turkish cuisine.",
+        "recipes": [
+            {
+                "name": "Lamb Kebab",
+                "ingredients": [
+                    "lamb shoulder",
+                    "red pepper paste",
+                    "tomato paste",
+                    "onion",
+                    "garlic",
+                    "cumin",
+                    "sumac",
+                    "salt",
+                    "pepper"
+                ],
+                "steps": "1. Cut the lamb shoulder into small pieces and marinate with red pepper paste, tomato paste, finely chopped onion, minced garlic, cumin, sumac, salt, and pepper. 2. Let the meat marinate for at least an hour in the fridge. 3. Thread the meat onto skewers and grill over high heat until nicely charred and cooked to your liking.",
+                "image": "https://i.ibb.co/HPGJ24Q/best-lamb-kebab-recipe.jpg"
+            },
+            {
+                "name": "Manti",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "parsley",
+                    "salt",
+                    "pepper",
+                    "yogurt",
+                    "sumac"
+                ],
+                "steps": "1. Mix the ground beef with finely chopped onion, minced garlic, chopped parsley, salt, and pepper. 2. Roll out the dough into thin sheets and cut into small squares. 3. Place a small amount of the beef mixture in the center of each square and fold the edges to form a small dumpling. 4. Boil the manti in salted water until cooked through. 5. Serve with yogurt and sumac.",
+                "image": "https://i.ibb.co/0DW9gDq/fb6d7f-47e6a9c8151b450b8f5965c26d560ccb-mv2.webp"
+            },
+            {
+                "name": "Sea Bass",
+                "ingredients": [
+                    "sea bass",
+                    "lemon",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "dill"
+                ],
+                "steps": "1. Clean and fillet the sea bass. 2. Season the fish with salt and pepper, and drizzle with olive oil. 3. Grill the fish over medium-high heat until cooked through, about 4-5 minutes per side. 4. Squeeze fresh lemon juice over the fish and sprinkle with chopped dill.",
+                "image": "https://i.ibb.co/X2ktQnh/Sea-bass.jpg"
+            },
+            {
+                "name": "Baklava",
+                "ingredients": [
+                    "phyllo dough",
+                    "butter",
+                    "walnuts",
+                    "sugar",
+                    "water",
+                    "honey",
+                    "lemon juice"
+                ],
+                "steps": "1. Melt the butter and brush it onto the layers of phyllo dough. 2. Mix the finely chopped walnuts with sugar and sprinkle the mixture over the layers of phyllo dough. 3. Roll the layers of phyllo dough into a tight roll and cut into small pieces. 4. Bake the baklava in a preheated oven at 180°C for 25-30 minutes, or until golden brown. 5. In a saucepan, mix water, honey, and lemon juice, and simmer until the mixture thickens. 6. Pour the honey syrup over the baklava while it's still warm.",
+                "image": "https://i.ibb.co/314Xt59/Baklava-Recipe-16.jpg"
+            }
+        ]
+    }
+]
